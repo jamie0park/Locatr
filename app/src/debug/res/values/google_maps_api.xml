@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=33:32:AA:D0:E3:41:C6:96:84:C9:FE:34:ED:01:41:E1:1B:F4:90:BB%3Bcom.bignerdranch.android.locatr
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    33:32:AA:D0:E3:41:C6:96:84:C9:FE:34:ED:01:41:E1:1B:F4:90:BB
+
+    SHA-1 certificate fingerprint:
+    33:32:AA:D0:E3:41:C6:96:84:C9:FE:34:ED:01:41:E1:1B:F4:90:BB
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyB3hTFUtp2NBaNx77hiBgujU-28Sul0TuY
+    </string>
+</resources>
